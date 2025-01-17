@@ -51,8 +51,4 @@ Este proyecto consiste en el diseño y desarrollo de **cards animadas y responsi
 
 ---
 
-## **Cómo Probar el Proyecto** 🖥️
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/guillermoSoftwareEngineer/cards.git
