@@ -666,6 +666,7 @@ body {
   height: 50px;
   margin-bottom: 10px;
   animation: zoom-in 0.8s ease;
+  border-radius: 50%;
 }
 
 .card-5-text {
